@@ -11,3 +11,8 @@ xcvbnm,mnbvcvb
 sdfghjkjhgfdf
 cvjhgfdfghjk
 xcvbnm,.,mnbvc
+dfghjkl;
+xcvbnm,
+sdfghjkjhgfdfwertyuiopoiuytre
+sdfghjklkjhgfd.,mnbvcx
+uytrewertyu
